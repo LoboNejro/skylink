@@ -1,4 +1,4 @@
-# 🌌 **Sky Link**
+## 🌌 **Sky Link**
 
 Bienvenidos a **Sky Link**, la red social donde cada conexión es especial. Diseñada para ofrecer una experiencia **elegante** y **fácil de usar**, Sky Link transforma la manera en que nos relacionamos y compartimos momentos. Desde un inicio de sesión sencillo hasta un diseño atractivo, cada aspecto de Sky Link está pensado en ti. 
 
